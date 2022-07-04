@@ -33,11 +33,17 @@ public class NovoSwitch {
         }
         // ----
 
+        n = 4;
 
         var resultado = switch (n) {
             case 1 -> n + 10;
             case 2 -> n + 20;
             case 3 -> n + 30;
+            case 4 -> {
+                System.out.println("Bloco de codigo dentro do switch");
+                yield n + 40; //yield retorna o valor. Como se fosse um "return".
+                //return n + 40; //"return" não compila aqui.
+            }
             default -> n;
         };
 
