@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®¢ÖÀıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†¾•¿
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Åàöİ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(˜ŒŠì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(şñò¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–´¨–
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¥½å8
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´—ŸÇşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„Ô÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ£¸×üÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ı·åx
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æç²Ä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ‡Õô
+y
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ú£ûŸÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(å‡ëÇøÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ÖšôÇøÿÿÿÿ
